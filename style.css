@@ -3,10 +3,13 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-weight: 400;
     font-size: 40px;
+}
+#padding-color{
+    font-weight: 600;
+    font-size: 50px;
     letter-spacing: 2px;
-    /* border-left: 5px solid #FF5959; */
+    border-left: 5px solid #FF5959;
     padding-left: 15px;
     font-family: 'Yeseva One', cursive;
     
@@ -45,11 +48,13 @@ h1{
 #headings{
     margin-top: 90px;
     text-align: center;
-    font-family: 'Yeseva One', cursive;
-    color:#13103A
+    font-family: 'Poppins', sans-serif;
+    color:#13103A;
+    font-size: 40px;
+    font-weight: 700;
 }
 .three-container{ 
-    width:33%;
+    width:100%;
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px 10px;
@@ -74,5 +79,27 @@ h1{
     border-radius: 10px;
     padding: 20px;
 }
+.develop img{
+    width: 30%;
+    padding-left: 10%;
+    margin-top: 50px;
+}
 
+.third-part{
+    width: 60%;
+    padding-left: 10%;
+}
+footer{
+    background-color: #0B0D17;
+    text-align: center;
+    height: 20vh;
+    padding-top: 5px;
+}
+.style{
+    font-family: 'Yeseva One', cursive;
+    color: white;
+}
+footer p{
+    color: white;
+}
 
