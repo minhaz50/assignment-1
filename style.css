@@ -115,15 +115,18 @@ h1{
 footer{
     background-color: #0B0D17;
     text-align: center;
-    height: 20vh;
+    height: 25vh;
     padding-top: 10px;
     margin-top: 10%;
 }
 .style{
     font-family: 'Yeseva One', cursive;
     color: white;
+    font-size: 30px;
 }
 footer p{
     color: white;
+    padding-bottom: 5%;
+    font-size: 12px;
 }
 
