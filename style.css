@@ -100,7 +100,7 @@ h1{
 }
 #build{
     text-align: center;
-    padding-left: 40%;
+    padding-left: 30%;
 }
 .covid-img img{
     width: 70%;
@@ -112,7 +112,6 @@ h1{
     padding-top: 10%;
     padding-right: 10%;
 }
-
 footer{
     background-color: #0B0D17;
     text-align: center;
@@ -124,13 +123,6 @@ footer{
     font-family: 'Yeseva One', cursive;
     color: white;
 }
-
-
-
-
-
-
-
 footer p{
     color: white;
 }
